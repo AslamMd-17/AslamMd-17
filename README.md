@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi trespassers !!
 
-<!--
-**AslamMd-17/AslamMd-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Aslam Mohammad, an undergraduate student based in  Hyderabad,India.
 
-Here are some ideas to get you started:
+I brainstorm ideas and try to build projects from them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack is Flutter-Dart , Python-Django , Bootstrap.
+Some of my favourite tools are Git&Github, Figma.
+
+I am currently working of a project called "Silent Failure Detection".
+
+I would like to collaborate on  projects , hackathons !
+
+
+Facts about me :
+
+1. I like Tea.
+
+2. I love Cinema.
+
+3. I like to leave tech for nature.
+ 
