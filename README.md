@@ -17,5 +17,5 @@ Facts about me :
 
 2. I love Cinema.
 
-3. I like to leave tech for nature.
+3.I am curious.
  
